@@ -1,0 +1,22 @@
+#hair-obj
+#uv count (945), material count (2)
+#Monday, February 3, 2020
+#3:18:18 PM
+#-------
+
+
+newmtl material0 
+Ns 225 
+Ka 0.2 0.2 0.2 
+Kd 0.8 0.8 0.8 
+Ks 1 1 1 
+Ke 0 0 0 
+illum 2 
+
+newmtl material1 
+Ns 225 
+Ka 0.2 0.2 0.2 
+Kd 0.8 0.8 0.8 
+Ks 1 1 1 
+Ke 0 0 0 
+illum 2 
